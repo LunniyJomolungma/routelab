@@ -3,7 +3,9 @@
 # RouteLab
 ### One map. Three decisions.
 
-**C++17 · BFS / Dijkstra / A* · Offline visual reports · Zero third-party libraries**
+**C++17 · BFS / Dijkstra / A\* · Offline visual reports · Zero third-party libraries**
+
+[![Build and tests](https://github.com/LunniyJomolungma/routelab/actions/workflows/ci.yml/badge.svg)](https://github.com/LunniyJomolungma/routelab/actions/workflows/ci.yml)
 
 [Quick start](#quick-start) · [Map format](#map-format) · [Design notes](docs/DESIGN.md) · [Roadmap](docs/ROADMAP.md)
 
