@@ -1,0 +1,7 @@
+/build/
+/report.html
+*.exe
+*.pdb
+*.obj
+*.o
+.DS_Store
